@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+What new skills have you learned?
+R: Por enquanto está tudo bem básico e esse conhecimento eu já tenho.
+What has been easy?
+R: Tudo fácil até o momento
+What has been difficult?
+R: Nada, tudo tranquilo.
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+R: Só fiquei atendo as formatações, principalmente dos textos.
