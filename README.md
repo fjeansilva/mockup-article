@@ -1,2 +1,2 @@
 # Mockup article project
-[See live](https://mockup-article.herokuapp.com/).
+[See live](http://article-to-mockup.herokuapp.com/).
